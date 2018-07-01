@@ -1,0 +1,3 @@
+---
+tomcat_webapp_dir: /usr/share/tomcat/webapps/ROOT
+tomcat_package: tomcat
